@@ -1,10 +1,10 @@
 {
-  "name": "taxonomy",
+  "name": "StripeTest_Next.js13",
   "version": "0.2.0",
   "private": true,
   "author": {
-    "name": "shadcn",
-    "url": "https://twitter.com/shadcn"
+    "name": "santiagogasco87jack",
+    "url": "https://twitter.com/santiagogasco87jack"
   },
   "scripts": {
     "dev": "concurrently \"contentlayer dev\" \"next dev\"",

@@ -39,11 +39,11 @@ export const metadata = {
   ],
   authors: [
     {
-      name: "shadcn",
-      url: "https://shadcn.com",
+      name: "santiagogasco87jack",
+      url: "https://santiagogasco87jack.com",
     },
   ],
-  creator: "shadcn",
+  creator: "santiagogasco87jack",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
@@ -61,7 +61,7 @@ export const metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [`${siteConfig.url}/og.jpg`],
-    creator: "@shadcn",
+    creator: "@santiagogasco87jack",
   },
   icons: {
     icon: "/favicon.ico",
